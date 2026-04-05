@@ -1,4 +1,4 @@
-# -mepilglobal-secureguard
+# -mepilglobal-secureguard V1.0
 MepilGlobal SecureGuard V1.0 has been developed by Francis Osademe from Nigeria.The app is an inventory application  that is used to track equipment or items in a workshop or any other place  .It scans barcodes attached to the equipment via a webcam on a personal computer .It captures the date, time and the status of the item.
 
 
@@ -33,7 +33,7 @@ If you are interested in purchasing the source code, licensing the software, or 
 *   **LinkedIn: ** [https://www.linkedin.com/in/francis-osademe-9a56a0356/]
 
 ## ⚖️ License & Copyright
-**Copyright © 2025 [Francis Osademe]. All Rights Reserved. **
+**Copyright © 2026 [Francis Osademe]. All Rights Reserved. **
 
 This software is **strictly proprietary**. No part of this project may be reproduced, distributed, or modified in any form or by any means without the prior written permission of the author.
 **Important Notice: **
