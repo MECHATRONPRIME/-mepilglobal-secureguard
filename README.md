@@ -17,15 +17,15 @@ Manual tracking often leads to asset loss, ghost inventory, and zero accountabil
 This repository contains the complete source code for a robust **Python-based** tracking solution, featuring a high-speed scanning engine and an automated data export pipeline.
 *   **Core Language: ** Python 3.x
 *   **Scanning Engine: ** [ OpenCV / PyZbar] (High-speed barcode and QR code recognition)
-*   **Data Processing: ** [Pandas / Openpyxl] (Automated Excel generation and data formatting)
-*   **Database: ** [ SQLite / CSV] (Real-time logs for equipment status and user history)
+  
+
 *   **Key Features: ** 
     *   **Instant Recognition**: High-accuracy barcode scanning via camera or connected hardware.
     *   **Precision Logging**: Automated timestamping (Date & Time) for every check-in and check-out.
     *   **One-Click Reporting**: Dynamic .xlsx export functionality for instant audit-ready reporting.
-The code is hosted here to provide a timestamped **Proof of Creation** and demonstrate technical proficiency in automation and data management. It is not intended for public installation, deployment, or use.
-
-## 🙋 Contact & Inquiries
+"This documentation serves as a timestamped record of creation, confirming the development of these automation and data management protocols. The underlying source code is maintained in a private environment to ensure intellectual property security while demonstrating high-level technical proficiency."
+  
+  ## 🙋 Contact & Inquiries
 If you are interested in purchasing the source code, licensing the software, or discussing the project's architecture, please reach out:
 
 *   **Maintainer: ** [Francis Osademe I.]
