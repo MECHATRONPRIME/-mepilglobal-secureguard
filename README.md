@@ -33,7 +33,7 @@ If you are interested in purchasing the source code, licensing the software, or 
 *   **LinkedIn: ** [https://www.linkedin.com/in/francis-osademe-9a56a0356/]
 
 ## ⚖️ License & Copyright
-**Copyright © 2025 [Your Name]. All Rights Reserved. **
+**Copyright © 2025 [Francis Osademe]. All Rights Reserved. **
 
 This software is **strictly proprietary**. No part of this project may be reproduced, distributed, or modified in any form or by any means without the prior written permission of the author.
 **Important Notice: **
