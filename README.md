@@ -1,11 +1,12 @@
 # MepilGlobal SecureGuard V1.0
 ### 🚀 Automated Inventory & Equipment Tracking System
 
-[![Watch the Demo](https://shields.io)](https://youtu.be)
-
-Developed by **Francis Osademe from Nigeria**, **MepilGlobal SecureGuard** is a robust inventory application used to track equipment and items in workshops or high-mobility environments. Using a standard PC webcam, the system scans barcodes attached to equipment to automate check-ins and check-outs.
+[![Watch the Demo](https://youtube.com)](https://www.youtube.com/watch?v=A2xLjXjBRLE)
+*[Click here to watch the automation demo on YouTube](https://www.youtube.com/watch?v=A2xLjXjBRLE)*
 
 ---
+
+Developed by **Francis Osademe from Nigeria**, **MepilGlobal SecureGuard** is a robust inventory application used to track equipment and items in workshops or high-mobility environments. Using a standard PC webcam, the system scans barcodes attached to equipment to automate check-ins and check-outs.
 
 ## 🛠️ What it Does
 A professional inventory management system designed to eliminate ghost inventory and ensure total accountability through automated data capture.
